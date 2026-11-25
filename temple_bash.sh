@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 # Temple Run in Bash - Portable Edition
-# Save as temple_run.sh, run: chmod +x temple_run.sh && ./temple_run.sh
 
 if [[ -z "$EPOCHREALTIME" ]]; then
     echo "Bash 5.0 or newer is required to run this game."
