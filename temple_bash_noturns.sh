@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
-# Temple Run in Bash - Zero-Fork High-FPS Engine
-# Save as temple_run.sh, run: chmod +x temple_run.sh && ./temple_run.sh
+# Temple Run in Bash
 
 # Require Bash 5.0+ for $EPOCHREALTIME
 if [[ -z "$EPOCHREALTIME" ]]; then
